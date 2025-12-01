@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2025
+title: An empirical study on capability of large language models in understanding code semantics
+authors: Thu-Trang Nguyen, Thanh Trong Vu, Hieu Dinh Vo, Son Nguyen
+venue: Information and Software Technology
+vurl: https://www.sciencedirect.com/science/article/abs/pii/S0950584925001193
+pdf: https://arxiv.org/pdf/2407.03611
+web: https://www.sciencedirect.com/science/article/abs/pii/S0950584925001193
+bib: https://scholar.googleusercontent.com/scholar.bib?q=info:hOb2VO5e98IJ:scholar.google.com/&output=citation&scisdr=ChXd-IeSEPCs9elQNqs:ABGrvjIAAAAAaS1WLqsFlVZXOPZHzl2oP1KpKBc&scisig=ABGrvjIAAAAAaS1WLh0_4rYlOu0eZuxj7fIUCr0&scisf=4&ct=citation&cd=-1&hl=vi&scfhb=1
+pub: https://www.sciencedirect.com/science/article/abs/pii/S0950584925001193
+---

@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2024
+title: Code-centric learning-based just-in-time vulnerability detection
+authors: Son Nguyen, Thu-Trang Nguyen, Thanh Trong Vu, Thanh-Dat Do, Kien-Tuan Ngo, Hieu Dinh Vo
+venue: Journal of Systems and Software
+vurl: https://www.sciencedirect.com/science/article/abs/pii/S0164121224000578
+pdf: https://arxiv.org/pdf/2304.08396
+web: https://www.sciencedirect.com/science/article/abs/pii/S0164121224000578
+bib: https://scholar.googleusercontent.com/scholar.bib?q=info:fKfnTX0m6yEJ:scholar.google.com/&output=citation&scisdr=ChXd-IeSEPCs9elQUtU:ABGrvjIAAAAAaS1WStU-jE6pWLMssM7Wch8q9W8&scisig=ABGrvjIAAAAAaS1WSqM8Vep7TxmfvJdFRffM5P4&scisf=4&ct=citation&cd=-1&hl=vi&scfhb=1
+pub: https://www.sciencedirect.com/science/article/abs/pii/S0164121224000578
+---

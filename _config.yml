@@ -1,0 +1,36 @@
+# Site metadata
+keywords: AI4SE, CodeLLMs
+description: Thanh Trong Vu
+title: Thanh Trong Vu
+
+author: Thanh Trong Vu
+authorimg: images/avt.jpg
+authoroccup: Research Asisstant
+
+# inst: DFINITY
+# insturl: https://www.dfinity.org
+# uni: Graz University of Technology
+# uniurl: http://www.tugraz.at
+
+vcard: 'mailto:thanhvu@vnu.edu.vn'
+linkedin: thanhtlx
+scholar: 420-IxAAAAAJ
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+collections:
+  # - preprints
+  # - proc
+  - jour
+  # - articles
+  # - theses
+  # - deli
+  # - talk
+exclude:
+  - Gemfile
+  - Gemfile.lock
+include:
+  - keybase.txt

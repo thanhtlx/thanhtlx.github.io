@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2024
+title: Context-encoded code change representation for automated commit message generation
+authors: Thanh Trong Vu, Thanh-Dat Do, Hieu Dinh Vo
+venue: International Journal of Software Engineering and Knowledge Engineering
+vurl: https://www.worldscientific.com/doi/10.1142/S0218194023500493
+pdf: https://arxiv.org/pdf/2306.14418
+web: https://www.worldscientific.com/doi/10.1142/S0218194023500493
+bib: https://scholar.googleusercontent.com/scholar.bib?q=info:wDzo1GVTQukJ:scholar.google.com/&output=citation&scisdr=ChXd-IeSEPCs9elQlno:ABGrvjIAAAAAaS1WjnrhrAnW67NyhzLtgX862V0&scisig=ABGrvjIAAAAAaS1WjljLg41QgulkQogkA1vgD2s&scisf=4&ct=citation&cd=-1&hl=vi
+pub: https://www.worldscientific.com/doi/10.1142/S0218194023500493
+---

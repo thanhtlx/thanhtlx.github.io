@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2025
+title: Automated description generation for software patches
+authors: Thanh Trong Vu, Tuan-Dung Bui, Thanh-Dat Do, Thu-Trang Nguyen, Hieu Dinh Vo, Son Nguyen
+venue: Information and Software Technology
+vurl: https://www.sciencedirect.com/science/article/abs/pii/S0950584924001484
+pdf: https://arxiv.org/pdf/2402.03805
+web: https://www.sciencedirect.com/science/article/abs/pii/S0950584924001484
+bib: https://dblp.uni-trier.de/rec/bibtex/journals/dcc/DerlerS18
+pub: https://dx.doi.org/10.1007/s10623-018-0460-y
+---
