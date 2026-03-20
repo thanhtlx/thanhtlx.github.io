@@ -1,0 +1,12 @@
+---
+layout: post
+year: 2026
+title: Model-Agnostic Quality Assessment for LLM-Generated Code via Dynamic Internal Representation Selection
+authors: Thanh Trong Vu, Tuan-Dung Bui, Thu-Trang Nguyen, Son Nguyen, Hieu Dinh Vo
+venue: Journal of Systems and Software
+vurl: https://www.sciencedirect.com/science/article/abs/pii/S0164121226000865
+pdf: https://thanhtlx.github.io/publications/paper/JSS_26__AutoProbe.pdf
+web: https://www.sciencedirect.com/science/article/abs/pii/S0164121226000865
+bib: 
+pub: https://www.sciencedirect.com/science/article/abs/pii/S0164121226000865
+---

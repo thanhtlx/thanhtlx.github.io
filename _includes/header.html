@@ -1,0 +1,32 @@
+<!-- <header>
+  <img src="{{site.authorimg}}" alt="{{site.author}}" width="150" />
+  <h1>{{site.author}}</h1>
+  <p class="occup">{{site.authoroccup}}</p>
+  <ul class="extlinks">
+    <li><a href="{{site.vcard}}"><i class="fa fa-envelope-square"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+    <li><a href="https://scholar.google.com/citations?user={{site.scholar}}&hl=en" target="_blank"><i class="fa fa-graduation-cap"></i></a></li>
+  </ul>
+</header> -->
+<header>
+  <img src="{{site.authorimg}}" alt="{{site.author}}" width="150" />
+  <h1>{{site.author}}</h1>
+  <p class="occup">{{site.authoroccup}}</p>
+
+  <div class="contact-info">
+    <p class="email-text">
+      <i class="fa fa-envelope-o"></i>
+      {{ site.vcard | replace: "@", " (at) " | replace: "mailto:", ""}}
+    </p>
+    <p class="tagline">Open to research collaborations.</p>
+  </div>
+
+  <ul class="extlinks">
+    <li><a href="mailto:{{site.vcard}}"><i class="fa fa-envelope-square"></i></a></li>
+    <li><a href="https://scholar.google.com/citations?user={{site.scholar}}&hl=en" target="_blank"><i
+          class="fa fa-graduation-cap"></i></a></li>
+    <li><a href="https://orcid.org/{{site.orcid}}" target="_blank"><i class="ai ai-orcid"></i></a></li>
+    <li><a href="https://github.com/thanhtlx" target="_blank"><i class="fa fa-github-square"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/{{site.linkedin}}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+  </ul>
+</header>
